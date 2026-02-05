@@ -1,4 +1,4 @@
-# Assecor Assessment Test (DE)
+# REST API Interface - Person & Color Selector
 
 ## Zielsetzung
 
@@ -165,3 +165,4 @@ the return content type is `application/json`. The interface should offer the fo
 * Add a secondary data source (e.g. database via EF or JPA)
 
 Think about your potential future colleagues, and do not make it too easy for them by posting your solution publicly. Thank you!
+
